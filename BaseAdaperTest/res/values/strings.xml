@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BaseAdaperTest</string>
+    <string name="hello_world">Hello world!</string>
+	<string-array name="books">
+	    <item>A</item>
+	    <item>Apple</item>
+	    <item>Array</item>
+	    <item>Ass</item>
+	    <item>Amercan</item>
+	    <item>Azz</item>
+	</string-array>
+</resources>
