@@ -55,8 +55,7 @@ public class MyAdapter extends  BaseAdapter{
 			CheckBox_cb.setText("NO. " + position);
 			CheckBox_cb.setOnCheckedChangeListener(cbListener);
 			
-			//note:用 Inflater要幫 convertView設 Tag，否則會出現nullReferenceException，
-			//然後你會找不到問題，因為這是Android底層做的事。
+			
 			convertView.setTag(viewTag);
 		}else{
 			viewTag =(ViewTag)convertView.getTag();

@@ -1,5 +1,4 @@
 INDEX VERSION 1.126+D:\JavaSandbox\GitHub\AdapterTest\.metadata\.plugins\org.eclipse.jdt.core
 115887603.index
 1284074322.index
-531036312.index
 887494062.index
