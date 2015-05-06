@@ -73,6 +73,8 @@ public class MyAdapter extends  BaseAdapter{
 				viewTag.iv.setBackgroundResource(R.drawable.edu3);
 				break;
 		}
+		
+		//設定文字依 position排序
 		viewTag.tv.setText(list[position]);
 		return convertView;
 	}
